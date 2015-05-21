@@ -28,3 +28,8 @@ http://www.homebrewcpu.com/technical_info.htm
 http://cpuville.com/index.htm
 
 http://cpuville.com/ALU.htm
+
+
+I will probably be following the design process outlined in:
+
+http://www.pilawa.org/computer/
