@@ -33,3 +33,16 @@ http://cpuville.com/ALU.htm
 I will probably be following the design process outlined in:
 
 http://www.pilawa.org/computer/
+
+
+HAHA jk designing a microprocessor might be a bit much at this point. Using the Z80 processor and this book
+
+https://books.google.com/books?id=mVQnFgWzX0AC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=twopage&q&f=false
+
+
+Interesting read: http://www.amazon.com/CMOS-Cookbook-Second-Edition-LANCASTER/dp/0750699434
+
+and Others who've come before me:
+http://z80.info/homebrew.htm
+
+http://www.vaxman.de/projects/tiny_z80/
